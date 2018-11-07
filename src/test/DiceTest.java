@@ -1,3 +1,7 @@
+package test;
+
+import spil.Dice;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class DiceTest {
