@@ -60,4 +60,3 @@ public class FileManipulation {
 
 }
 
-//Lavet af Sascha
