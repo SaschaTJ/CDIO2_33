@@ -1,16 +1,16 @@
+package test;
+
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class AccountTest {
-
-    Hej
+class DiceTest {
 
     @Test
-    void addToScore() {
+    void throwDice() {
     }
 
     @Test
-    void getScore() {
+    void getEyes() {
     }
 }
