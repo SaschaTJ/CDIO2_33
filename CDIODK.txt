@@ -1,0 +1,18 @@
+ Når dit navn vises på skærmen, betyder det, at det er din tur.
+ Du skal nu kaste terningerne. For at gøre dette: Tryk ENTER
+ Indtast navn på spiller 1:
+ Indtast navn på spiller 2:
+ skal kaste terningerne
+ har opnået 3000 point og vinder spillet.
+ Du indtager tårnet og tager dens skat til en værdi af 250!
+ Du falder i krateret og taber 100...
+ Du modtager 100 for at træde ind ad paladsets port
+ Du er endt i den kolde ørken og 20 af dine monz fryser væk
+ Du modtages i Wall City med 180
+ Du sidder en runde over i klosteret.
+ Du mister 70 monz i den sorte hule. Øv.
+ Du støder på en lejr i bjergene og finder 60 penge i et telt
+ Du rammer the Werewolf Track og mister 80. Du får dog en ny tur
+ Du falder i hullet og det koster dig 50 at komme op igen
+ Du har fundet guld i bjergene og sælger det for 650!
+

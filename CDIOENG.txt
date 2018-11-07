@@ -1,0 +1,17 @@
+ When your name is shown on the screen it means it is your turn.\
+ Throw the dice. To do this press: ENTER
+ Insert name for player 1:
+ Insert name for player 2:
+ throw the dice
+ has achieved 3000 points and is the winner of the game!
+ You occupy the tower and take its treasure worth 250!
+ You fall into the crater and lose 100
+ You receive 100 to enter the palace
+ You have ended up in the cold desert and 20 of your monz freeze away
+ You are received in Wall City with 180
+ Your turn is skipped while you're hanging out in the monastery.
+ You lose 70 monz in the black cave. Too bad.
+ You encounter a camp in the mountains and find 60 monz in a tent.
+ You hit the Werewolf Track and lose 80. However, you get a new turn.
+ You fall into the pit and spend 50 monz getting up again.
+ You have found gold in the mountains and sell it for 650!
