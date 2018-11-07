@@ -2,10 +2,13 @@ package spil;
 
 public class Square {
 
-    Sum sum1 = new Sum();
+//Creates objects from the other classes
+     Dice sum1 = new Dice();
     Account player1Account;
     Account player2Account;
     Account currentAccount;
+
+// We make a constuctor.
 
     public Square( Account player1Account, Account player2Account, Account currentAccount) {
         this.player1Account = player1Account;
@@ -15,7 +18,9 @@ public class Square {
 
     public void square() {
 
-       sum1.dice.throwDice();
+       sum1.throwDice();
+
+// Switch methode to land on a new square from turn to turn.
 
        switch (sum1.totalSum()) {
            case 2:
