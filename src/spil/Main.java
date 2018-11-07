@@ -19,6 +19,9 @@ public class Main {
         Account player2Account = new Account();
 
 
+
+//You switch between players
+
         for (boolean s1tur = true; player1Account.getScore() < 3000 && player2Account.getScore() < 3000; s1tur = !s1tur) {
             Account currentAccount;
             if (s1tur) {
