@@ -6,6 +6,7 @@ public class Account {
     public Account() {
 
     }
+
 //Your score for a turn is added to your account
     public void addToScore(int result) {
         if (this.score + result < 0) {
@@ -13,6 +14,7 @@ public class Account {
         }
             else if (this.score+result>=3000){
                 this.score=3000;
+
         } else {
             this.score += result;
         }

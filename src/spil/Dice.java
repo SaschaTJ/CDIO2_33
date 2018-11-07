@@ -2,12 +2,14 @@ package spil;
 
 import java.util.Random;
 
+
 //This class throws the dice and gets the total sum of the eyes.
 
 public class Dice {
     Random ran = new Random();
     private int eyes;
     private int sum;
+
 
     public Dice() {
     }
@@ -17,6 +19,7 @@ public class Dice {
         this.eyes = this.ran.nextInt(6) + 1;
     }
 
+
     public int getEyes() {
         return this.eyes;
     }
@@ -25,4 +28,5 @@ public class Dice {
         this.sum = getEyes() + getEyes();
         return sum;
     }
+
 }
