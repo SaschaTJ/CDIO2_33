@@ -11,16 +11,17 @@ import spil.Dice;
 
 
                 /** @Aurthor Peter
-                 * Vi tester hvor mange gange hver sumværdi fra 2-12 fremkommer
+                 * The test caunts the amount of each dicesum from 2-12.
                  */
 
                 Dice test = new Dice();
                 Dice test2 = new Dice();
 
-                //Vi opretter et array på 13 istedet for 11, så arraynummeret stemmer overens med sumværdien.
+                // We creates an Array at 13 insted of 11 to match the dicesum with the number of arrays.
                 int[] arr = new int[13];
 
-                //Terningerne bliver kastet 10.000 gange
+
+                // The Dices are thrown 10.000 times.
                 for (int i = 0; i < 10000; i++) {
                     test.throwDice();
                     test2.throwDice();
@@ -31,9 +32,8 @@ import spil.Dice;
                     System.out.println(i);
                 }
 
-                //Vi tester hvor mange gange hver sumværdi fremkommer,
-                // og om det stemmer i overens med den realistiske sandsynlighed.
-                //Vi har her sat afvigelsen til 20%
+
+                //The test is compared with the realistic probability for each dicesum, our deviation is 20%.
 
                 assertEquals(0, arr[1]);
                 assertEquals(278, arr[2], 56);
