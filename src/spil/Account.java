@@ -6,7 +6,7 @@ public class Account {
     public Account() {
 
     }
-
+//Your score for a turn is added to your account
     public void addToScore(int result) {
         if (this.score + result < 0) {
             this.score = 0;

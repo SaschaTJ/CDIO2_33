@@ -2,6 +2,8 @@ package spil;
 
 import java.util.Random;
 
+//This class throws the dice and gets the total sum of the eyes.
+
 public class Dice {
     Random ran = new Random();
     private int eyes;

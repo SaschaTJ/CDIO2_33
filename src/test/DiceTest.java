@@ -48,10 +48,4 @@ import spil.Dice;
                 assertEquals(556, arr[11], 112);
                 assertEquals(278, arr[12], 56);
             }
-
-
-
-    @Test
-    void getEyes() {
-    }
 }
