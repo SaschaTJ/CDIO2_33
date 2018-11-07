@@ -1,3 +1,5 @@
+package spil;
+
 public class Sum {
     private int sum;
     Dice dice = new Dice();
