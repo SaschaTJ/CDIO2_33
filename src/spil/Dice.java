@@ -15,7 +15,7 @@ public class Dice {
     }
 
     public void throwDice() {
-
+    //The number of sides on the die can be changed by changing 6 to another number.
         this.eyes = this.ran.nextInt(6) + 1;
     }
 
