@@ -1,3 +1,7 @@
+package test;
+
+import spil.Dice;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class DiceTest {
@@ -6,7 +10,7 @@ class DiceTest {
     void throwDice() {
 
 
-            /** @Aurthor Peter
+            /** @Author Peter
              * Vi tester hvor mange gange hver sumværdi fra 2-12 fremkommer
              */
 

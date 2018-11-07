@@ -1,3 +1,5 @@
+package spil;
+
 public class Account {
     private int score = 1000;
 
