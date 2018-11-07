@@ -4,8 +4,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class AccountTest {
 
-    Hej
-
     @Test
     void addToScore() {
     }
