@@ -2,7 +2,7 @@ package spil;
 
 public class Square {
 
-    Sum sum1 = new Sum();
+     Dice sum1 = new Dice();
     Account player1Account;
     Account player2Account;
     Account currentAccount;
@@ -15,7 +15,7 @@ public class Square {
 
     public void square() {
 
-       sum1.dice.throwDice();
+       sum1.throwDice();
 
        switch (sum1.totalSum()) {
            case 2:
