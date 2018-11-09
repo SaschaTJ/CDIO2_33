@@ -11,7 +11,7 @@ public class Square {
     Account currentAccount;
 
 
-// We make a constuctor.
+//We make a constuctor.
 
 
     public Square( Account player1Account, Account player2Account, Account currentAccount) {
@@ -25,7 +25,7 @@ public class Square {
 
        sum1.throwDice();
 
-// Switch methode to land on a new square from turn to turn.
+// Switch-method to land on a new square from turn to turn.
 
 
        switch (sum1.totalSum()) {

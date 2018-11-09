@@ -5,9 +5,9 @@ import spil.Account;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-/** @Aurthor Andreas
- * The first test "Account test" test if the balance can be negative.
- * The second test "Account test1" test the the balance can never get over 3000.
+/** @Author Andreas
+ * The first test "Account test" tests if the balance can be negative.
+ * The second test "Account test1" tests that the balance can never get over 3000.
  */
 
 class AccountTest {

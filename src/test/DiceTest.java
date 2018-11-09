@@ -6,8 +6,8 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 import spil.Dice;
 
-/** @Aurthor Peter
- * The test caunts the amount of each dicesum from 2-12.
+/** @Author Peter
+ * The test counts the amount of each dicesum from 2-12.
  */
 
         class DiceTest {
