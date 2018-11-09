@@ -5,16 +5,15 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 import spil.Dice;
+
+/** @Aurthor Peter
+ * The test caunts the amount of each dicesum from 2-12.
+ */
+
         class DiceTest {
 
             @org.junit.jupiter.api.Test
             void throwDice() {
-
-
-                /** @Aurthor Peter
-                 * The test caunts the amount of each dicesum from 2-12.
-                 */
-
 
                 Dice test = new Dice();
                 Dice test2 = new Dice();
@@ -56,4 +55,6 @@ import spil.Dice;
             }
 
 }
+
+//Source: Studiegruppe 33, DTU 2018: CDIO del 1.
 
